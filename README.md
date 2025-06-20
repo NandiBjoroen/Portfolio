@@ -1,4 +1,3 @@
-# Portfolio
 # Data Scientist
 
 ### Education 
