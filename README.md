@@ -36,6 +36,21 @@ Developed a two-stage convolutional neural network machine learning model whose 
 
 ![image](https://github.com/user-attachments/assets/237f8b8f-92a8-4a75-ba98-4ba57a1983b0)
 
+![image](https://github.com/user-attachments/assets/1435bb4a-bf55-4f01-8ef0-bc1c5475eb56)
+
+
 Figure: Detected: Lung cancer, Classified: Large call carcinoma 
+
+
+#### Optimizing Norways Public Bus Transportation System with Predictive Modelling and Dashboard Visualization 
+The project investigates how predictive modeling and dashboard visualization using traffic and weather data can optimize public bus transportation. It aims to address unpredictable traffic demands and improve scheduling efficiency. Key methods included imputing missing time series traffic data, aggregating it to hourly and daily levels, and using an 80/10/10 data split for training, validation, and testing. Model performance was evaluated using RMSE. Results obtained show an overall 49.1% arrival delay and 38.2% departure delay on all bus journeys. The project was implemented using Long Short Term Memory model developed with two LSTM layers to predict arrival and departure delays. The model obtained an overall validation performance RMSE of 9.96 minutes and an overall test performance RMSE of 59.90 minutes.
+
+![image](https://github.com/user-attachments/assets/32bbc498-6b09-48e8-9c50-9a7fba160b5f)
+
+
+
+
+
+
 
 
