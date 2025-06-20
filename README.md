@@ -17,6 +17,6 @@ Physiotherapist @ Ministry of Health
 - Departmental management
 - Student mentorship
 
-  ### Voluntary work
-  Healthcare consultant @ Caritas Norge
+### Voluntary work
+Healthcare consultant @ Caritas Norge
 
