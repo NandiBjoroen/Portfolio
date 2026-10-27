@@ -3,6 +3,7 @@ Technical Skills: Python, SQL, R, Databricks, PowerBi, ML
 
 ### Education  
 MSc., Data Science | Oslomet University (Present)
+
 Bsc., Applied Data Science | Noroff University College (May 2025)  
 Msc., Public Health | University of Lusaka (October 2020)  
 Bsc., Physiotherapy | University of Zambia (November 2016)  
